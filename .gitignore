@@ -5,3 +5,4 @@ dist/
 *.egg-info
 VERSION
 *__pycache__
+.idea/
